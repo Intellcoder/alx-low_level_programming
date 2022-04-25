@@ -4,7 +4,6 @@
 *@n: is the intthat will use for the argument of the function
 *Return: int val
 */
-
 int print_last_digit(int n)
 {
 int last;

@@ -3,7 +3,6 @@
 *jack_bauer - prints every minute of the day of Jack Bauer
 *Return: void
 */
-
 void jack_bauer(void)
 {
 int h1;
@@ -17,7 +16,7 @@ while (h2 <= 2)
 if (h2 == 2)
 {
 /*Restrain to 23h, not 29*/
-a = 3
+a = 3;
 }
 h1 = 0;
 while (h1 <= a)
@@ -41,4 +40,5 @@ m2++;
 h1++;
 }
 h2++;
+}
 }

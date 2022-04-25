@@ -2,7 +2,6 @@
 /**
 *times_table-prints_times_table
 */
-
 void times_table(void)
 {
 int a = 0;
@@ -38,4 +37,4 @@ b++;
 _putchar('\n');
 a++;
 }
-
+}

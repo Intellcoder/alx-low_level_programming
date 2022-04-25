@@ -7,7 +7,6 @@
 *Numbers must be separated by , followed by a space
 *Return: 0
 */
-
 int main(void)
 {
 int c;
